@@ -1,2 +1,2 @@
 # gogogo
-记录go的学习历程
+记录go的学习历程, gogogo
