@@ -10,8 +10,8 @@ import (
 
 // sentinal errors
 var (
-	ErrAsyncVariableNil = errors.New("variable is nil")
-	ErrAsyncTimeout     = errors.New("timeout")
+	ErrAsyncVariableNil = errors.New("async: variable is nil")
+	ErrAsyncTimeout     = errors.New("async: timeout")
 )
 
 // Async Encapsulation goroutine
